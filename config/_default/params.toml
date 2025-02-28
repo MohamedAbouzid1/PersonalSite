@@ -17,6 +17,7 @@ enableImageLazyLoading = true
 
 # robots = ""
 fingerprintAlgorithm = "sha256"
+IsMultilingual = true
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
