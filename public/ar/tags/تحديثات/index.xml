@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>تحديثات on محمد أبوزيد</title>
+    <link>http://localhost:35001/ar/tags/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA/</link>
+    <description>Recent content in تحديثات on محمد أبوزيد</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <copyright>© 2025 محمد أبوزيد</copyright>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:35001/ar/tags/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>تحديث عن حياتي</title>
+      <link>http://localhost:35001/ar/posts_ar/2-life_update/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35001/ar/posts_ar/2-life_update/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
