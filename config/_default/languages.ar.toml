@@ -1,0 +1,24 @@
+languageCode = "ar"
+languageName = "Arabic"
+languageDirection = "ltr"
+weight = 1
+
+title = "محمد أبوزيد"
+copyright = "© 2025 محمد أبوزيد"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "الموقع الشخصي لمحمد أبوزيد"
+
+[params.author]
+  name = "محمد أبوزيد"
+  image = "img/avatar.png"
+  headline = "متخصص في المعلوماتية الحيوية، علم بيانات وصانع محتوى"
+  bio = "متخصص في المعلوماتية الحيوية، علم بيانات وصانع محتوى"
+  links = [
+    { youtube = "https://youtube.com/" },
+    { instagram = "https://www.instagram.com/_mohamed.at.abouzid/" },
+    { github = "https://github.com/MohamedAbouzid1" },
+    { linkedin = "https://www.linkedin.com/in/mohamed-abouzid/" },
+  ]
