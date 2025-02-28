@@ -1,5 +1,5 @@
 # -- Site Configuration --
-# Refer to the theme docs for more details _index.md.md each of these parameters.
+# Refer to the theme docs for more details index.md.md each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
@@ -12,8 +12,14 @@ summaryLength = 0
 [pagination]
   pagerSize = 10
 
+[permalinks]
+blogs = "/blog/:year/:month/:day/:slug/"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [privacy]
   [privacy.vimeo]

@@ -5,6 +5,48 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/2-life_update/</loc>
+            <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/1-hello/</loc>
+            <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/youtube/</loc>
           </url>
     
   
@@ -12,8 +54,6 @@
       <url>
             <loc>http://localhost:1313/about/</loc>
           </url>
-    
-  
     
   
     
