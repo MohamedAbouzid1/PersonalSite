@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>عني on محمد أبوزيد</title>
-    <link>http://localhost:35001/ar/</link>
+    <link>http://localhost:1313/ar/</link>
     <description>Recent content in عني on محمد أبوزيد</description>
     <generator>Hugo</generator>
     <language>ar</language>
     <copyright>© 2025 محمد أبوزيد</copyright>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35001/ar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>تحديث عن حياتي</title>
-      <link>http://localhost:35001/ar/posts_ar/2-life_update/</link>
+      <link>http://localhost:1313/ar/posts.ar/2-life_update/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35001/ar/posts_ar/2-life_update/</guid>
+      <guid>http://localhost:1313/ar/posts.ar/2-life_update/</guid>
       <description></description>
     </item>
     <item>
       <title>رحلتي في المعلوماتية الحيوية وتعلم الآلة</title>
-      <link>http://localhost:35001/ar/posts_ar/1-hello/</link>
+      <link>http://localhost:1313/ar/posts.ar/1-hello/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35001/ar/posts_ar/1-hello/</guid>
+      <guid>http://localhost:1313/ar/posts.ar/1-hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ar/youtube.ar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ar/youtube.ar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>عني</title>
+      <link>http://localhost:1313/ar/about.ar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ar/about.ar/</guid>
       <description></description>
     </item>
   </channel>

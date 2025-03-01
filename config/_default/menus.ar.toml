@@ -12,17 +12,17 @@
 
 [[main]]
   name = "عني"
-  pageRef = "about_ar"
+  pageRef = "about.ar"
   weight = 10
 
 [[main]]
   name = "المدونة"
-  pageRef = "posts_ar"
+  pageRef = "posts.ar"
   weight = 20
 
 [[main]]
   name = "يوتيوب"
-  pageRef = "youtube_ar"
+  pageRef = "youtube.ar"
   weight = 30
 
 

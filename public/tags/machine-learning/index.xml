@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Mohamed Abouzid</title>
-    <link>http://localhost:35001/tags/machine-learning/</link>
+    <link>http://localhost:1313/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Mohamed Abouzid</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Mohamed Abouzid</copyright>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35001/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey into Bioinformatics and Machine Learning</title>
-      <link>http://localhost:35001/posts/1-hello/</link>
+      <link>http://localhost:1313/posts/1-hello/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35001/posts/1-hello/</guid>
+      <guid>http://localhost:1313/posts/1-hello/</guid>
       <description></description>
     </item>
   </channel>
