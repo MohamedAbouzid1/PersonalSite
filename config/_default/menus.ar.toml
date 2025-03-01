@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "المدونة"
-  pageRef = "posts.ar"
+  name = "مدوَّنة"
+  pageRef = "المدونة"
   weight = 20
 
 [[main]]

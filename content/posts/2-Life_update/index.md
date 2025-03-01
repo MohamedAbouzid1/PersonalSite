@@ -34,6 +34,6 @@ In the coming months, I plan to:
 - Keep creating helpful content for students and expats in Germany.
 
 That’s all for now! If you’re interested in bioinformatics, AI, or just want to connect, feel free to reach out
-on [LinkedIn](https://linkedin.com/in/yourlinkedin) or check out my [GitHub](https://github.com/yourusername).
+on [LinkedIn](https://www.linkedin.com/in/mohamed-abouzid/) or check out my [GitHub](https://github.com/MohamedAbouzid1).
 
 Until next time! ✌️  

@@ -18,4 +18,3 @@ Originally from Egypt, I moved to Germany to start my career as a pharmacist bef
 - [GitHub](https://github.com/MohamedAbouzid1)
 - [LinkedIn](https://www.linkedin.com/in/mohamed-abouzid/)
 - [Email](mailto:m.atef.abouzid@gmail.com)
-- [Resume (PDF)](/Your-Resume.pdf)

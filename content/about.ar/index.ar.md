@@ -18,5 +18,4 @@ sharingLinks: false
 
 - [جيتهاب](https://github.com/MohamedAbouzid1)  
 - [لينكدإن](https://www.linkedin.com/in/mohamed-abouzid/)  
-- [الإيميل](mailto:m.atef.abouzid@gmail.com)  
-- [السيرة الذاتية (PDF)](/Your-Resume.pdf)  
+- [الإيميل](mailto:m.atef.abouzid@gmail.com)

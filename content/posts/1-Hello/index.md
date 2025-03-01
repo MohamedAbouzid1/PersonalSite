@@ -28,7 +28,7 @@ Through this blog, I want to document my experiences, share insights on bioinfor
 
 ## Stay Connected  
 
-If you're interested in bioinformatics, AI, or just want to follow my journey, feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin) or check out my [GitHub](https://github.com/yourusername).  
+If you're interested in bioinformatics, AI, or just want to follow my journey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-abouzid/) or check out my [GitHub](https://github.com/MohamedAbouzid1).  
 
 Stay tuned for more posts soon! 🚀  
 

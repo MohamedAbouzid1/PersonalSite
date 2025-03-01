@@ -10,6 +10,7 @@ copyright = "© 2025 محمد أبوزيد"
   dateFormat = "2 January 2006"
 
   description = "الموقع الشخصي لمحمد أبوزيد"
+  pluralizeListTitles = false
 
 [params.author]
   name = "محمد أبوزيد"
