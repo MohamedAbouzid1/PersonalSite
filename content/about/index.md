@@ -5,7 +5,7 @@ sharingLinks: false
 ---
 ### Hey friend 👋
 
-My name is Mohamed Abouzid, and I'm currently located in [Hamburg, Germany](https://maps.app.goo.gl/PKU9iqXVBTLBE3Yd9). I am a machine learning enthusiast with a focus on bioinformatics and biological networks. Currently, I am working on my Master’s thesis at the University of Hamburg in the [CosyBio](https://www.cosy.bio/) lab, where we're expanding the development of [StrucTFactor](https://apps.cosy.bio/StrucTFactor/), a software that leverages neural networks for biological network analysis and transcription factor prediction. My research explores how deep learning can be applied to understand gene regulation and transcriptional control.
+My name is Mohamed Abouzid, and I'm currently located in [Hamburg, Germany](https://maps.app.goo.gl/PKU9iqXVBTLBE3Yd9). I am a machine learning enthusiast with a focus on bioinformatics and data science. Currently, I am working on my Master’s thesis at the University of Hamburg in the [CosyBio](https://www.cosy.bio/) lab, where we're expanding the development of [StrucTFactor](https://apps.cosy.bio/StrucTFactor/), a software that leverages neural networks for biological network analysis and transcription factor prediction. My research explores how deep learning can be applied to understand gene regulation and transcriptional control.
 
 Previously, I worked on single-cell RNA sequencing analysis. During this time, I studied immune and fat cells to investigate their relationship with metabolic factors and disease development. My work combined computational biology with data science to extract meaningful insights from large-scale sequencing data.
 

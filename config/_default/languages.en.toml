@@ -18,8 +18,7 @@ copyright = "© 2025 Mohamed Abouzid"
   bio = "Bioinformatician, Data Scientist & Content Creator."
   links = [
     { linkedin = "https://www.linkedin.com/in/mohamed-abouzid/" },
-    { youtube = "https://youtube.com/" },
-    { instagram = "https://www.instagram.com/_mohamed.at.abouzid/" },
+    { youtube = "https://www.youtube.com/@MohamedAbouzidBio" },
     { github = "https://github.com/MohamedAbouzid1" },
     { twitter = "https://x.com/MoAbouzid" }
   ]

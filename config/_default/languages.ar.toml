@@ -18,8 +18,8 @@ copyright = "© 2025 محمد أبوزيد"
   headline = "متخصص في المعلوماتية الحيوية، علم بيانات وصانع محتوى"
   bio = "متخصص في المعلوماتية الحيوية، علم بيانات وصانع محتوى"
   links = [
-    { youtube = "https://youtube.com/" },
-    { instagram = "https://www.instagram.com/_mohamed.at.abouzid/" },
-    { github = "https://github.com/MohamedAbouzid1" },
     { linkedin = "https://www.linkedin.com/in/mohamed-abouzid/" },
+    { youtube = "https://www.youtube.com/@MohamedAbouzidBio" },
+    { github = "https://github.com/MohamedAbouzid1" },
+    { twitter = "https://x.com/MoAbouzid" }
   ]
