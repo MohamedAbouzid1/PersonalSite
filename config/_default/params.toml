@@ -37,7 +37,7 @@ IsMultilingual = true
   recentLimit = 5
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = true
   showAuthor = false
   showBreadcrumbs = false
@@ -48,8 +48,8 @@ IsMultilingual = true
   showHeadingAnchors = false
   showPagination = true
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = true
+  showReadingTime = false
+  showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
   showComments = false
